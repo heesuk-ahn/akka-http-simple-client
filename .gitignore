@@ -19,9 +19,4 @@ project/plugins/project/
 .metadata/
 src/universal/*
 
-*.pb
-
-circleci/endpoints_config.yaml
-circleci/kube_deploy.yaml
-circleci/change-record-sets.json
 .idea/*
